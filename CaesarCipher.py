@@ -1,6 +1,3 @@
-from itertools import cycle
-
-
 leters = list("abcdefghijklmnñopkrstuvwxyz")
 
 
