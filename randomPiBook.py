@@ -2,10 +2,7 @@
 	length as the digit of Pi(π) that's in that position. Example:
 	First word would have 3 letters, second 1, third 4... and so on.
 """
-import requests
-import json
-import random
-import numpy as np
+import requests, random
 from mpmath import mp
 
 
